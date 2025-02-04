@@ -6,10 +6,10 @@
 
 ## Installation
 
-No special installation is required. Simply include the `easyFormSubmit` function in your JavaScript project.
+No special installation is required. Simply include the `easyFormSubmit` function from CDN.
 
 ```javascript
-// Copy and paste the easyFormSubmit function into your JS file
+<script src="https://cdn.jsdelivr.net/gh/FrancoMartino/easy-form-submit@main/easy-form-submit.js"></script>
 ```
 
 ---
