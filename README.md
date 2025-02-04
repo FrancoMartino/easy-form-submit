@@ -9,7 +9,7 @@
 No special installation is required. Simply include the `easyFormSubmit` function from CDN.
 
 ```javascript
-<script src="https://cdn.jsdelivr.net/gh/FrancoMartino/easy-form-submit@main/easy-form-submit.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/FrancoMartino/easy-form-submit@main/easy-form-submit.min.js"></script>
 ```
 
 ---
